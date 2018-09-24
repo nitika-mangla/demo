@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Synonyms FormatVersion="2" FeatureVersion="2">
+  <DirectionalSynList>
+    <DirectionalSyn>
+      <From>check</From>
+      <To>validate</To>
+    </DirectionalSyn>
+    <DirectionalSyn>
+      <From>guest</From>
+      <To>user</To>
+      <To>employee</To>
+    </DirectionalSyn>
+  </DirectionalSynList>
+</Synonyms>

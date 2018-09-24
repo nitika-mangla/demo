@@ -1,0 +1,97 @@
+/*Created with Adobe RoboHelp 2019.*/
+body {
+  font-family: Arial;
+  background-color: #ffffff;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 24.0pt;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 18.0pt;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 14.0pt;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 12.0pt;
+}
+
+h5 {
+  font-weight: bold;
+  font-size: 10.0pt;
+}
+
+h6 {
+  font-weight: bold;
+  font-size: 8.0pt;
+  text-align: left;
+  margin: undefinedpt undefinedpt undefinedpt undefinedpt;
+}
+
+p {
+  font-size: 12.0pt;
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+}
+
+a.expandspot {
+  color: #008000;
+  cursor: hand;
+  font-style: italic;
+  text-decoration: none;
+}
+
+span.expandtext {
+  font-style: italic;
+  font-weight: normal;
+  color: #ff0000;
+}
+
+a.dropspot {
+  cursor: hand;
+  color: #008000;
+  font-style: italic;
+  text-decoration: none;
+}
+
+a.glossterm {
+  color: #800000;
+  cursor: hand;
+  font-style: italic;
+  text-decoration: none;
+}
+
+span.glosstext {
+  font-style: italic;
+  font-weight: normal;
+  color: #0000ff;
+}
+
+ol,
+ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+1style {
+  text-align: left;
+  margin: 0px 0px 0px 0px;
+}
+
+123style {
+  text-align: left;
+  margin: undefinedpx undefinedpx undefinedpx undefinedpx;
+}
+
+1345style.indent {
+  text-align: left;
+  margin: undefinedpt undefinedpt undefinedpt 18pt;
+}
